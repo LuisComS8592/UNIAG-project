@@ -73,7 +73,7 @@ Pronto para ver a ação?
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_NOME_DE_USUARIO/SEU_REPO.git](https://github.com/SEU_NOME_DE_USUARIO/SEU_REPO.git)
+    git clone [https://github.com/LuisComS8592/UNIAG-project.git](https://github.com/LuisComS8592/UNIAG-project.git)
     ```
 2.  **Abra no IntelliJ IDEA:** Abra a pasta do projeto no seu IDE de eleição.
 3.  **Encontre a ignição:** Navegue até `src/pt/ipb/uniag/app/TesteUNIAG.java`.
