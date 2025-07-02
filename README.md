@@ -92,9 +92,6 @@ Projeto-UNIAG/
 ├── .gitignore
 ├── docs/
 │   └── (Documentação Javadoc gerada)
-├── out/
-│   └── artifacts/
-│       └── ProjetoUNIAG.jar
 ├── src/
 │   └── pt/
 │       └── ipb/
