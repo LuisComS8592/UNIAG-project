@@ -9,7 +9,9 @@
 Este projeto foi desenvolvido com ☕ e muito código no âmbito da Unidade Curricular de **Programação Orientada por Objetos (POO)**.
 
 **Autor:** Luis Enrique
+
 **Versão:** 1.7 (Final com CRUD completo!)
+
 **[Javadoc](https://luiscoms8592.github.io/UNIAG-project/)**
 
 ---
