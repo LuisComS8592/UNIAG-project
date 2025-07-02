@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com ☕ e muito código no âmbito da Unidade Curr
 
 **Versão:** 1.7 (Final com CRUD completo!)
 
-**[Javadoc](https://luiscoms8592.github.io/UNIAG-project/)**
+Acesse o [Javadoc](https://luiscoms8592.github.io/UNIAG-project/) do projeto!
 
 ---
 
